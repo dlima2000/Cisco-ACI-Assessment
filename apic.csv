@@ -1,0 +1,49 @@
+infraWiNode,Apic cluster
+fabricNode,Fabric Nodes
+cnwPhysIf,APIC interfaces
+cnwAggrIf,APIC interfaces
+l3EncRtdIf,APIC L3 interfaces
+eqptStorage,APIC Storage
+aaaActiveUserSession,Active Users
+fabricPodPGrp,fabricPodPGrp
+fabricPodP,fabricPodP
+dhcpClient,Fabric membership
+fvCEp,Endpoint
+fvRsCEpToPathEp,Endpoint Path
+fvTenant,Tenant
+fvCtx,VRF
+fvBD,Bridge Domain
+fvSubnet,Subnet
+fvAp,Application Profile
+fvAEPg,Endpoint Group
+fvRsDomAtt,Domain
+vzFilter,Filters
+l3extOut,L3Outs
+l3extRsNodeL3OutAtt,L3Outs cont
+fabricSpPortP,Spine Switch Profile
+ffabricSpPortP,Spine Interface Profile
+infraAccPortP,Leaf Switch Profile
+infraNodeP,Leaf Interface Profile
+fabricExplicitGEp,VPC Explict Protection Group
+fabricHIfPol,Interface Policies
+cdpIfPol,CDP Policies
+lldpIfPol,LLDP Policies
+bgpInstPol,bgpInstPol
+bgpRRP,BGP RR
+fabricPodS,fabricPodS
+mgmtRsOoBStNode,OOB Management
+fvnsVlanInstP,VLAN Pool
+infraAttEntityP,AEP
+physDomP,Phy Domain
+l3extDomP,L3 Domain
+vmmProvP,VMM Domain
+vmmDomP,VMM
+compHv,VMM Hypervisor
+l2IfPol,L2 Policy
+infraAccPortGrp,Interface Policy Group
+infraAccBndlGrp,Interface Policy Group PC/VPC
+infraAccPortP,interface and policies
+infraPortBlk,infraPortBlk
+infraRsAccBaseGrp,Interface Profile associate with policy group
+fvRsPathAtt,Static Port
+faultInst,Faults
