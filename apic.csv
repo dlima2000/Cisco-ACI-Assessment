@@ -47,3 +47,5 @@ infraPortBlk,infraPortBlk
 infraRsAccBaseGrp,Interface Profile associate with policy group
 fvRsPathAtt,Static Port
 faultInst,Faults
+cdpAdjEp,CDP
+lldpAdjEp,LLDP
